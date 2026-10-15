@@ -152,7 +152,7 @@ Class imbalance: only 16% of records have a delinquent target. Future validation
 
 The numeric correlation analysis did not identify a strong simple linear relationship between the individual numeric variables and Delinquent_Account. The observed correlations were small in magnitude. Candidate indicators and category-level differences should therefore be treated as hypotheses for further testing, not as proven causes or validated predictors.
 
-Recommendations and Next Steps
+Recommendations 
 
 Confirm the business definition and valid range of Credit_Utilization; investigate values above 100%.
 
